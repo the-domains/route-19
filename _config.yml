@@ -1,0 +1,28 @@
+name: Route 19
+favicon: null
+layout_spectrum: 0.7464959777425975
+typography_spectrum: 0.25928625580854714
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9758810754865408
+  lightness: 0.11298761889338493
+  saturation: 0.2271062491927296
+  rhythmicContrast: 0.5820187337230891
+purpose: []
